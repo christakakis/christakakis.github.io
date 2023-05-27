@@ -47,3 +47,44 @@
 - [Arithmetic Mean (Scaling Technique)](https://github.com/christakakis/computational_optimization/tree/main/(9)%20Arithmetic%20Mean)
 
 ---
+
+
+## Data Analysis with R 
+
+### [Simple R functions - Dataset tidyr::who](https://github.com/christakakis/r_data_analysis/tree/main/(1)%20Simple%20R%20functions)
+
+---
+### [Simple R plots with ggplot2 - Datasets queen & mcdonalds](https://github.com/christakakis/r_data_analysis/tree/main/(2)%20Simple%20R%20plots%20with%20ggplot2)
+
+<img src="images/R2(a).jpg?raw=true"/>
+<img src="images/R2(b).jpg?raw=true"/>
+
+---
+### [Rules, Correcting, Imputing with R - Dataset dirty_iris](https://github.com/christakakis/r_data_analysis/tree/main/(3)%20Rules%2C%20Correcting%2C%20Imputing%20with%20R)
+
+---
+### [Visualization of the Olympic Games with R - Dataset results](https://github.com/christakakis/r_data_analysis/tree/main/(4)%20Visualization%20of%20the%20Olympic%20Games%20with%20R)
+
+<img src="images/R4(a).jpg?raw=true"/>
+<img src="images/R4(b).jpg?raw=true"/>
+
+---
+### [Interactive Maps with use of cshapes, leaflet and tmap (Dashboard Included) - Dataset world from cshapes](https://github.com/christakakis/r_data_analysis/tree/main/(5)%20Interactive%20Maps%20with%20use%20of%20cshapes%2C%20leaflet%20and%20tmap%20(Dashboard%20Included))
+
+---
+### [Graph plots and shortest paths (Dashboard Included) - Dataset world from cshapes](https://github.com/christakakis/r_data_analysis/tree/main/(6)%20Graph%20plots%20and%20shortest%20paths%20(Dashboard%20Included))
+
+<img src="images/R6.jpg?raw=true"/>
+
+---
+### [Interesting interactive visualizations (Dashboard Included) - Dataset album](https://github.com/christakakis/r_data_analysis/tree/main/(7)%20Interesting%20interactive%20visualizations%20(Dashboard%20Included))
+
+<img src="images/R7.jpg?raw=true"/>
+
+---
+### [Visualizations of NYPD shooting incidents (Dashboard Included) - Various Datasets](https://github.com/christakakis/r_data_analysis/tree/main/(8)%20Visualizations%20of%20NYPD%20shooting%20incidents%20(Dashboard%20Included))
+
+<img src="images/R8(a).jpg?raw=true"/>
+<img src="images/R8(b).jpg?raw=true"/>
+
+---
