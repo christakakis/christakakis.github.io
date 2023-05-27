@@ -5,7 +5,8 @@
 ### Machine Learning Projects 
 
 [Classification (Computer Vision - BoVW)](https://github.com/christakakis/machine_learning/tree/main/(2)%20Classification%20(Computer%20Vision%20-%20BoVW))
-<img src="images/Classification-ComputerVision-BoVW-Elephant.jpg?raw=true"/>
+<img src="images/Classification-ComputerVision-BoVW-Elephant(1).jpg?raw=true"/>
+<img src="images/Classification-ComputerVision-BoVW-Elephant(2).jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
