@@ -78,6 +78,7 @@
 
 ---
 ### [Interesting interactive visualizations (Dashboard Included) - Dataset album](https://github.com/christakakis/r_data_analysis/tree/main/(7)%20Interesting%20interactive%20visualizations%20(Dashboard%20Included))
+The Dashboard is available for preview on my account on [ShinyApps](https://christakakis.shinyapps.io/Dashboard-Albums/).
 
 <img src="images/R7.jpg?raw=true"/>
 
