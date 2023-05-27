@@ -45,4 +45,5 @@
 - [TSP solver - Heuristic algorithm for optimal tour](https://github.com/christakakis/computational_optimization/tree/main/(7)%20TSP%20solver%20-%20Heuristic%20algorithm%20for%20finding%20optimal%20tour)
 - [CVRP solver - Finding routes and their weights](https://github.com/christakakis/computational_optimization/tree/main/(8)%20CVRP%20solver%20-%20Finding%20routes%20and%20their%20weights)
 - [Arithmetic Mean (Scaling Technique)](https://github.com/christakakis/computational_optimization/tree/main/(9)%20Arithmetic%20Mean)
+
 ---
