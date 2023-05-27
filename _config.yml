@@ -1,11 +1,13 @@
 title: Panagiotis Christakakis # your name (or website title) here
 logo: "/images/1MB.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  MSc studies in Artificial Intelligence and Data Analytics | BSc Applied Informatics, UoM 
+  MSc studies in Artificial Intelligence and Data Analytics
+  <br><br>
+  BSc Applied Informatics, UoM
   <br><br>
   Thessaloniki, Central Macedonia, Greece 
   <br><br>
-  <a href="https://www.linkedin.com/in/christakakis/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/christakakis/">LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
