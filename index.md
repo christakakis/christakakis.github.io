@@ -34,7 +34,7 @@
 
 ---
 
-### Computational Optimization
+## Computational Optimization
 
 - [Compressed Sparse Row (CSR)](https://github.com/christakakis/computational_optimization/tree/main/(1)%20Compressed%20Sparse%20Row%20(CSR))
 - [Compressed Sparse Column (CSC)](https://github.com/christakakis/computational_optimization/tree/main/(2)%20Compressed%20Sparse%20Column%20(CSC))
