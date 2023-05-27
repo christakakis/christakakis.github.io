@@ -16,8 +16,9 @@
 <img src="images/test_conv.gif?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Unsupervised Learning (Clustering](https://github.com/christakakis/machine_learning/tree/main/(4)%20Unsupervised%20Learning%20(Clustering))
+
+<img src="images/UnsupervisedLearning-Clustering .jpg?raw=true"/>
 
 ---
 
