@@ -21,6 +21,18 @@
 <img src="images/UnsupervisedLearning-Clustering .jpg?raw=true"/>
 
 ---
+[Classification (Supervised Learning)](https://github.com/christakakis/machine_learning/tree/main/(1)%20Classification%20(Supervised%20Learning))
+
+<img src="images/Classification-Supervised Learning(1).jpg?raw=true"/>
+<img src="images/Classification-Supervised Learning(2).jpg?raw=true"/>
+
+---
+[NLTK Library – Sentence Generator & Classify Reviews](https://github.com/christakakis/machine_learning/tree/main/(5)%20NLTK%20Library%20%E2%80%93%20Sentence%20Generator%20%26%20Classify%20Reviews)
+
+---
+[CNN Architecture](https://github.com/christakakis/machine_learning/tree/main/(3)%20CNN%20Architecture)
+
+---
 
 ### Category Name 2
 
@@ -31,10 +43,3 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
