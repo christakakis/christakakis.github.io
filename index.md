@@ -10,8 +10,10 @@
 <img src="images/Classification-ComputerVision-BoVW-Elephant(2).jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Chatbot](https://github.com/christakakis/chatbot)
+
+<img src="images/ChatBot.jpg?raw=true"/>
+<img src="images/test_conv.gif?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
