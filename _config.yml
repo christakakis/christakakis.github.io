@@ -1,12 +1,19 @@
-title: Panagiotis Christakakis # your name (or website title) here
-logo: "/images/CV_Circular.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Currently pursuing a Master's degree in Artificial Intelligence and Data Analytics at University of Macedonia. 
-  <br><br>
-  Thessaloniki, Central Macedonia, Greece 
-  <br><br>
-  <a href="https://www.linkedin.com/in/christakakis/">LinkedIn Profile</a> 
+title: <p align="center"> Panagiotis Christakakis </p>
+
+logo: "/images/CV_Circular.png?raw=true"
   
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/christakakis/">LinkedIn</a> |
+  <a href="https://github.com/christakakis">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  Currently pursuing a Master's degree in Artificial Intelligence and Data Analytics at University of Macedonia.
+  <br><br>
+  Thessaloniki, Central Macedonia, Greece
+  <br><br>
+  </p>
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
