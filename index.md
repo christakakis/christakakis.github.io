@@ -203,3 +203,4 @@
 **CVRP solver:** With the help of VRPy python framework and TSP parser from code (6), best routes for CVRP files are found, as well as their weights.
 
 ---
+<center>© 2023 Panagiotis Christakakis. Powered by Jekyll and the Minimal Theme.</center>
