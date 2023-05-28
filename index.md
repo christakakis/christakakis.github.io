@@ -6,13 +6,27 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/machine_learning/tree/main/(2)%20Classification%20(Computer%20Vision%20-%20BoVW))
 
-**Classification using Computer Vision:** Implemenation of Bag of Visual Words (BoVW) technique for an image dataset (Mammals Classication). ([GitHub](https://github.com/christakakis/machine_learning/tree/main/(2)%20Classification%20(Computer%20Vision%20-%20BoVW))).
+**Classification using Computer Vision:** Implemenation of Bag of Visual Words (BoVW) technique for an image dataset (Mammals Classication).
 
 <img src="images/Classification-ComputerVision-BoVW-Elephant(1).jpg?raw=true"/>
 <img src="images/Classification-ComputerVision-BoVW-Elephant(2).jpg?raw=true"/>
 
 ---
-### [Chatbot](https://github.com/christakakis/chatbot)
+### Chatbot
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/chatbot)
+
+**Building a simple chat-bot using Microsoft's MetaLWOz dataset:** Briefly, my implementation took into account:
+      
+      • (1) Data pre-processing. Prepare the training data (pairs of sentences from the provided data set).
+
+      • (2) Neural Network Structure. Choosing an appropriate neural network structure that can model the problem.
+
+      • (3) Loss Function. Selecting an appropriate loss function.
+
+      • (4) Training. Training of the model on sentence pairs ([input, output]).
+
+      • (5) Testing - Inference. A txt as well as a gif are provided with some test conversations with the chatbot.
 
 <center><img src="images/ChatBot.jpg?raw=true"/></center>
 <center><img src="images/test_conv.gif?raw=true"/></center>
