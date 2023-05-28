@@ -66,71 +66,6 @@
 **CNNs:** Comparing and seeking the best result of various convolutional neural network architectures for CIFAR-10 dataset, while trying different loss functions.
 
 ---
-## Computational Optimization
-
-### Compressed Sparse Row
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(1)%20Compressed%20Sparse%20Row%20(CSR))
-
-**CSR:** Representation of a matrix A by three (one-dimensional) arrays, that respectively contain nonzero values, the extents of rows, and column indices.
-
----
-### Compressed Sparse Column
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(2)%20Compressed%20Sparse%20Column%20(CSC))
-
-**CSC:** Representation of a matrix A by three (one-dimensional) arrays, that respectively contain nonzero values, the extents of columns, and row indices.
-
----
-### Equilibration (Scaling Technique)
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(3)%20Eliminate%20k-ton%20Equality%20Constraints)
-
-**Equilibration:** Rows and columns of a matrix A are multiplied by positive scalars and these operations lead to non-zero numerical values of similar magnitude.
-
----
-### Arithmetic Mean (Scaling Technique)
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(9)%20Arithmetic%20Mean)
-
-**Arithmetic Mean:** This method aims to decrease the variance between the nonzero elements in the coefficient matrix A. Each row is divided by the arithmetic mean of the absolute value of the elements in that row and each column is divided by the arithmetic mean of the absolute value of the elements in that column.
-
----
-### Eliminate k-ton Equality Constraints (Presolve Method)
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(4)%20Equilibration%20Technique)
-
-**k-ton:** Identifying and eliminating singleton, doubleton, tripleton, and more general k-ton equality constraints in order to reduce the size of the problem and discover whether a LP is unbounded or infeasible.
-
----
-### Exterior Point Simplex-type Algorithm
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(5)%20Exterior%20Point%20Siplex-type%20Algorithm)
-
-**Exterior Point Algorithm:** An implementation of Exterior Point Algorithm.
-
----
-### Parser for various TSP and more type of problems
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(6)%20Parser%20for%20TSP%20and%20more%20type%20of%20problems)
-
-**TSP Parser:** With the help of tsplib95 a complete parser was made to read instances of type TSP, HCP, ATSP, SOP, CVRP. Also it supports Edge_Weight_Types of EXPLICIT, EUC_2D, EUC_3D, XRAY1, XRAY2, GEO, ATT, UPPER_ROW, LOWER_ROW and many more. Main goal of this parser is to return important information about a selected problem in order to apply heuristics and metaheuristics later. It is important to mention that this work was part of a group project and my part was about Hamiltonian Cycle Problems (HCP). Contributors are mentioned inside the files.
-
----
-### TSP solver - Heuristic algorithm for optimal tour
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(7)%20TSP%20solver%20-%20Heuristic%20algorithm%20for%20finding%20optimal%20tour)
-
-**TSP solver:** With the help of elkai library and TSP parser from [TSP Parser]((https://github.com/christakakis/computational_optimization/tree/main/(6)%20Parser%20for%20TSP%20and%20more%20type%20of%20problems)), Lin-Kernighan-Helsgaun heuristic algorithm is applied to HCP, TSP, ATSP, SOP files to find optimal tour and plot them.
-
----
-### CVRP solver - Finding routes and their weights
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(8)%20CVRP%20solver%20-%20Finding%20routes%20and%20their%20weights)
-
-**CVRP solver:** With the help of VRPy python framework and TSP parser from code (6), best routes for CVRP files are found, as well as their weights.
-
----
 ## Data Analysis with R 
 
 ### Simple R functions - Dataset tidyr::who
@@ -201,5 +136,70 @@
 
 <center><img src="images/R8(a).jpg?raw=true"/></center>
 <center><img src="images/R8(b).jpg?raw=true"/></center>
+
+---
+## Computational Optimization
+
+### Compressed Sparse Row
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(1)%20Compressed%20Sparse%20Row%20(CSR))
+
+**CSR:** Representation of a matrix A by three (one-dimensional) arrays, that respectively contain nonzero values, the extents of rows, and column indices.
+
+---
+### Compressed Sparse Column
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(2)%20Compressed%20Sparse%20Column%20(CSC))
+
+**CSC:** Representation of a matrix A by three (one-dimensional) arrays, that respectively contain nonzero values, the extents of columns, and row indices.
+
+---
+### Equilibration (Scaling Technique)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(3)%20Eliminate%20k-ton%20Equality%20Constraints)
+
+**Equilibration:** Rows and columns of a matrix A are multiplied by positive scalars and these operations lead to non-zero numerical values of similar magnitude.
+
+---
+### Arithmetic Mean (Scaling Technique)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(9)%20Arithmetic%20Mean)
+
+**Arithmetic Mean:** This method aims to decrease the variance between the nonzero elements in the coefficient matrix A. Each row is divided by the arithmetic mean of the absolute value of the elements in that row and each column is divided by the arithmetic mean of the absolute value of the elements in that column.
+
+---
+### Eliminate k-ton Equality Constraints (Presolve Method)
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(4)%20Equilibration%20Technique)
+
+**k-ton:** Identifying and eliminating singleton, doubleton, tripleton, and more general k-ton equality constraints in order to reduce the size of the problem and discover whether a LP is unbounded or infeasible.
+
+---
+### Exterior Point Simplex-type Algorithm
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(5)%20Exterior%20Point%20Siplex-type%20Algorithm)
+
+**Exterior Point Algorithm:** An implementation of Exterior Point Algorithm.
+
+---
+### Parser for various TSP and more type of problems
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(6)%20Parser%20for%20TSP%20and%20more%20type%20of%20problems)
+
+**TSP Parser:** With the help of tsplib95 a complete parser was made to read instances of type TSP, HCP, ATSP, SOP, CVRP. Also it supports Edge_Weight_Types of EXPLICIT, EUC_2D, EUC_3D, XRAY1, XRAY2, GEO, ATT, UPPER_ROW, LOWER_ROW and many more. Main goal of this parser is to return important information about a selected problem in order to apply heuristics and metaheuristics later. It is important to mention that this work was part of a group project and my part was about Hamiltonian Cycle Problems (HCP). Contributors are mentioned inside the files.
+
+---
+### TSP solver - Heuristic algorithm for optimal tour
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(7)%20TSP%20solver%20-%20Heuristic%20algorithm%20for%20finding%20optimal%20tour)
+
+**TSP solver:** With the help of elkai library and TSP parser from [TSP Parser]((https://github.com/christakakis/computational_optimization/tree/main/(6)%20Parser%20for%20TSP%20and%20more%20type%20of%20problems)), Lin-Kernighan-Helsgaun heuristic algorithm is applied to HCP, TSP, ATSP, SOP files to find optimal tour and plot them.
+
+---
+### CVRP solver - Finding routes and their weights
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(8)%20CVRP%20solver%20-%20Finding%20routes%20and%20their%20weights)
+
+**CVRP solver:** With the help of VRPy python framework and TSP parser from code (6), best routes for CVRP files are found, as well as their weights.
 
 ---
