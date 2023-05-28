@@ -51,11 +51,12 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
+        <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
+        {% endif %}
+        
         <a href="mailto:panoschristakakis@gmail.com"><i class="fa fa-envelope"></i> Email</a>
         <a href="https://www.linkedin.com/in/christakakis/"><i class="fa fa-linkedin"></i> LinkedIn Profile</a>
         <a href="https://github.com/christakakis"><i class="fab fa-github"></i> GitHub Profile</a>
-        <p class="view"><a href="{{ site.github.owner_url }}">GitHub Profile</a></p>
-        {% endif %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
