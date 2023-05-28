@@ -18,15 +18,15 @@
 
 **Building a simple chat-bot using Microsoft's MetaLWOz dataset:** Briefly, my implementation took into account:
       
-      • (1) Data pre-processing. Prepare the training data (pairs of sentences from the provided data set).
-
-      • (2) Neural Network Structure. Choosing an appropriate neural network structure that can model the problem.
-
-      • (3) Loss Function. Selecting an appropriate loss function.
-
-      • (4) Training. Training of the model on sentence pairs ([input, output]).
-
-      • (5) Testing - Inference. A txt as well as a gif are provided with some test conversations with the chatbot.
+  • **(1) Data pre-processing.** Prepare the training data (pairs of sentences from the provided data set).
+  
+  • **(2) Neural Network Structure.** Choosing an appropriate neural network structure that can model the problem.
+  
+  • **(3) Loss Function.** Selecting an appropriate loss function.
+  
+  • **(4) Training.** Training of the model on sentence pairs ([input, output]).
+  
+  • **(5) Testing - Inference.** A txt as well as a gif are provided with some test conversations with the chatbot.
 
 <center><img src="images/ChatBot.jpg?raw=true"/></center>
 <center><img src="images/test_conv.gif?raw=true"/></center>
