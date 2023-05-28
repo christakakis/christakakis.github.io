@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Thessaloniki, Central Macedonia, Greece 
   <br><br>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   <a href="mailto:panoschristakakis@gmail.com"><i class="fa fa-envelope"></i> Email</a>
   <a href="https://www.linkedin.com/in/christakakis/"><i class="fa fa-linkedin"></i> LinkedIn Profile</a>
   <a href="https://github.com/christakakis"><i class="fab fa-github"></i> GitHub Profile</a>
