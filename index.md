@@ -16,8 +16,9 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/chatbot)
 
-**Building a simple chat-bot using Microsoft's MetaLWOz dataset:** Briefly, my implementation took into account:
-      
+**Building a simple chat-bot using Microsoft's MetaLWOz dataset:** 
+#### Briefly, my implementation took into account:
+
   • **(1) Data pre-processing.** Prepare the training data (pairs of sentences from the provided data set).
   
   • **(2) Neural Network Structure.** Choosing an appropriate neural network structure that can model the problem.
