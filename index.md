@@ -3,7 +3,7 @@
 ## Machine Learning Projects
 <details><summary>Machine Learning Projects</summary>
 <br/>
-### Classification (Computer Vision - BoVW)
+**Classification (Computer Vision - BoVW)**
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/machine_learning/tree/main/(2)%20Classification%20(Computer%20Vision%20-%20BoVW))
 
