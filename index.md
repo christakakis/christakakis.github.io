@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-# <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/MachineLearning_png.png" alt="Machine Learning" width=48 height=48> Machine Learning
+# <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/MachineLearning_png.png" alt="Machine Learning" width=72 height=72> Machine Learning
 
 <details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/MachineLearning_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
@@ -71,10 +71,11 @@
 **CNNs:** Comparing and seeking the best result of various convolutional neural network architectures for CIFAR-10 dataset, while trying different loss functions.
 
 </details>
+<br/>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/R_png.png" alt="Data Analysis with R" width=48 height=48> Data Analysis with R
+# <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/R_png.png" alt="Data Analysis with R" width=72 height=72> Data Analysis with R
 
 <details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/R_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
@@ -150,10 +151,11 @@
 <center><img src="images/R8(b).jpg?raw=true"/></center>
 
 </details>
+<br/>
 
 ---
 
-# <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/Optimization_png.png" alt="Computational Optimization" width=48 height=48> Computational Optimization
+# <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/Optimization_png.png" alt="Computational Optimization" width=72 height=72> Computational Optimization
 
 <details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/Optimization_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
@@ -222,6 +224,8 @@
 **CVRP solver:** With the help of VRPy python framework and TSP parser from code (6), best routes for CVRP files are found, as well as their weights.
 
 </details>
+<br/>
+
 
 ---
 <center>© 2023 Panagiotis Christakakis. Powered by Jekyll and the Minimal Theme.</center>
