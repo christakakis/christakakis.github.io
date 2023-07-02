@@ -13,7 +13,7 @@
 
 **Smoking Recommendations with Item-Item CF:** This is personal project of a collaborative filtering-based recommendation system focused on analyzing smoking habits and providing personalized recommendations.
 
-## **What is a Collaborative filtering (CF) Recommendation System** ❔
+## **What is a Collaborative filtering (CF) Recommendation System** ❓
 
 #### A Recommendation System is an algorithm that uses large amounts of data to suggest additional products to consumers, providing recommendations that are relevant to other users similar to them. The final results can be based on various criteria, such as previous purchases by other consumers, demographic information, etc.
 
@@ -39,56 +39,56 @@
 
 ### The final format of the table created from the answers of the questionnaires should look like this: 
 
-<table>
-  <caption align="center"><b>Item-Item CF Ratings Table</b></caption>
-  <thead>
-    <tr>
-      <th align="center"><b> </b></th>
-      <th align="center"><b>User_1</b></th>
-      <th align="center"><b>User_2</b></th>
-      <th align="center"><b>User..</b></th>
-	    <th align="center"><b>User_N</b></th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-       <td align="center"><b>Tobacco Brand_1</b></td>
-       <td align="center"">4</td>
-       <td align="center"><b> </b></td>
-       <td align="center"">...</td>
-	     <td align="center""><b> </b></td>
-    </tr>
-    <tr>
-       <td align="center""><b>Tobacco Brand_2</b></td>
-       <td align="center""><b> </b></td>
-       <td align="center"">1</td>
-       <td align="center"">...</td>
-	     <td align="center""><b> </b></td>
-    </tr>
-    <tr>
-       <td align="center""><b>Tobacco Brand_3</b></td>
-       <td align="center"">3</td>
-       <td align="center"">5</td>
-       <td align="center"">...</td>
-       <td align="center"">4</td>
-    </tr>
-    <tr>
-       <td align="center""><b>Tobacco Brand ..</b></td>
-       <td align="center"">...</td>
-       <td align="center"">...</td>
-       <td align="center"">...</td>
-       <td align="center"">...</td>
-    </tr>
-    <tr>
-       <td align="center""><b>Tobacco Brand_M</b></td>
-       <td align="center"">2</td>
-       <td align="center""><b> </b></td>
-       <td align="center"">...</td>
-       <td align="center"">2</td>
-    </tr>
-  </tbody>
-</table>
+	<table>
+	  <caption align="center"><b>Item-Item CF Ratings Table</b></caption>
+	  <thead>
+	    <tr>
+	      <th align="center"><b> </b></th>
+	      <th align="center"><b>User_1</b></th>
+	      <th align="center"><b>User_2</b></th>
+	      <th align="center"><b>User..</b></th>
+		    <th align="center"><b>User_N</b></th>
+	    </tr>
+	  </thead>
+	
+	  <tbody>
+	    <tr>
+	       <td align="center"><b>Tobacco Brand_1</b></td>
+	       <td align="center"">4</td>
+	       <td align="center"><b> </b></td>
+	       <td align="center"">...</td>
+		     <td align="center""><b> </b></td>
+	    </tr>
+	    <tr>
+	       <td align="center""><b>Tobacco Brand_2</b></td>
+	       <td align="center""><b> </b></td>
+	       <td align="center"">1</td>
+	       <td align="center"">...</td>
+		     <td align="center""><b> </b></td>
+	    </tr>
+	    <tr>
+	       <td align="center""><b>Tobacco Brand_3</b></td>
+	       <td align="center"">3</td>
+	       <td align="center"">5</td>
+	       <td align="center"">...</td>
+	       <td align="center"">4</td>
+	    </tr>
+	    <tr>
+	       <td align="center""><b>Tobacco Brand ..</b></td>
+	       <td align="center"">...</td>
+	       <td align="center"">...</td>
+	       <td align="center"">...</td>
+	       <td align="center"">...</td>
+	    </tr>
+	    <tr>
+	       <td align="center""><b>Tobacco Brand_M</b></td>
+	       <td align="center"">2</td>
+	       <td align="center""><b> </b></td>
+	       <td align="center"">...</td>
+	       <td align="center"">2</td>
+	    </tr>
+	  </tbody>
+	</table>
 
 ### **NOTE** 🚭
 
