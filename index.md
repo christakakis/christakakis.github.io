@@ -1,7 +1,7 @@
 # Portfolio
 ---
 ## Machine Learning Projects
-(ALT+255)<details><summary>Machine Learning Projects</summary> 
+$ echo -e "<details><summary markdown='span'>Machine Learning Projects</summary> 
 ### Classification (Computer Vision - BoVW)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/machine_learning/tree/main/(2)%20Classification%20(Computer%20Vision%20-%20BoVW))
@@ -64,7 +64,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/machine_learning/tree/main/(3)%20CNN%20Architecture)
 
 **CNNs:** Comparing and seeking the best result of various convolutional neural network architectures for CIFAR-10 dataset, while trying different loss functions.
-</details>
+</details>" | kramdown --parse-block-html
 
 ---
 ## Data Analysis with R 
