@@ -1,7 +1,7 @@
 # Portfolio
 ---
 ## Machine Learning Projects
-<details>
+(ALT+255)<details>
 <summary>Machine Learning Projects</summary> 
 <br>
 
