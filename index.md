@@ -7,7 +7,7 @@
 
 <br/>
 
-**Classification (Computer Vision - BoVW)**
+### Classification (Computer Vision - BoVW)
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/machine_learning/tree/main/(2)%20Classification%20(Computer%20Vision%20-%20BoVW))
 
@@ -73,7 +73,12 @@
 </details>
 
 ---
-## Data Analysis with R 
+
+# <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" alt="Data Analysis with R Projects" width=48 height=48> Data Analysis with R Projects
+
+<details markdown=1><summary markdown="span"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" alt="Data Analysis with R Projects" width=20 height=20><strong> Data Analysis with R Projects</strong> (Click to open)</summary>
+
+<br/>
 
 ### Simple R functions - Dataset tidyr::who
 
@@ -144,8 +149,15 @@
 <center><img src="images/R8(a).jpg?raw=true"/></center>
 <center><img src="images/R8(b).jpg?raw=true"/></center>
 
+</details>
+
 ---
-## Computational Optimization
+
+# <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" alt="Computational Optimization Projects" width=48 height=48> Computational Optimization Projects
+
+<details markdown=1><summary markdown="span"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" alt="Computational Optimization Projects" width=20 height=20><strong> Computational Optimization Projects</strong> (Click to open)</summary>
+
+<br/>
 
 ### Compressed Sparse Row
 
@@ -208,6 +220,8 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/computational_optimization/tree/main/(8)%20CVRP%20solver%20-%20Finding%20routes%20and%20their%20weights)
 
 **CVRP solver:** With the help of VRPy python framework and TSP parser from code (6), best routes for CVRP files are found, as well as their weights.
+
+</details>
 
 ---
 <center>© 2023 Panagiotis Christakakis. Powered by Jekyll and the Minimal Theme.</center>
