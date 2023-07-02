@@ -1,6 +1,7 @@
 # Portfolio
 ---
-## Machine Learning Projects
+
+# <img src="https://raw.githubusercontent.com/wiki/pipewire-debian/pipewire-debian/images/icons/open_book.svg" alt="Machine Learning Projects" width=48 height=48> Machine Learning Projects
 
 <details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/wiki/pipewire-debian/pipewire-debian/images/icons/open_book.svg" alt="Machine Learning Projects" width=20 height=20><strong> Machine Learning Projects</strong> (Click to open)</summary>
 
