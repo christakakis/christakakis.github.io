@@ -72,7 +72,6 @@
 
 </details>
 <br/>
-
 ---
 
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/R_png.png" alt="Data Analysis with R" width=72 height=72> Data Analysis with R
