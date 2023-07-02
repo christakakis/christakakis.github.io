@@ -155,6 +155,46 @@
 
 ---
 
+# <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/GraphNetworks_png.png" alt="Graph Networks Analysis" width=72 height=72> Graph Networks Analysis
+
+<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/GraphNetworks_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
+
+<br/>
+
+### Production and Network Measurements
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/graph_network_analysis/tree/main/productionAndNetworkMeasurements)
+
+**Production and Network Measurements:** Studying and analyzing social networks. Comparison of the properties of the networks, commenting on the results and the parameter choices for the synthetic networks, and also the reasoning that was used to arrive at them. Finaly, plots are added and commented.
+
+<img src="https://raw.githubusercontent.com/christakakis/graph_network_analysis/main/productionAndNetworkMeasurements/Plots/05.%20Barabasi-Albert%20Undirected/03.%20Log%20Binning%20Degree%20Distribution.png"/>
+<img src="https://raw.githubusercontent.com/christakakis/graph_network_analysis/main/productionAndNetworkMeasurements/Plots/03.%20Erd%C5%91s-Renyi/01.%20Linear%20Scale.png"/>
+
+---
+
+### Community Detection Techniques
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/graph_network_analysis/tree/main/communityDetectionTechniques)
+
+**Detect communities with different techniques:** Working with polblogs network, a directed graph from hyperlinks between blogs on US politics recorded in 2005 by Adamic and Glance, a comparison of the performance of different community detection techniques-algorithms is held, with respect to the ground-truth communities given.
+
+<img src="https://raw.githubusercontent.com/christakakis/graph_network_analysis/main/communityDetectionTechniques/Plots/01.%20Ground%20Truth%20Communities.png"/>
+<img src="https://raw.githubusercontent.com/christakakis/graph_network_analysis/main/communityDetectionTechniques/Plots/03.%20Maximization%20Modularity%20Communities.png"/>
+<img src="https://raw.githubusercontent.com/christakakis/graph_network_analysis/main/communityDetectionTechniques/Plots/08.%20Metrics%20for%20Community%20Detection%20Methods%20(2).jpg"/>
+
+---
+
+### Cypher Neo4j Queries
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/cypher_neo4j_queries)
+
+**Data Insertion and Retrieval Queries using Neo4j:** Data from an online lending library that records information about the books it has, its users-readers and the borrowing of books by users. The library provides search services for books to users as well as recommendations of books they may find interesting. At the same time, users are able to rate books and lists of the most popular and highest rated books can be provided to users. The online library uses a relational database to store and manage relevant information.
+
+</details>
+<br/>
+
+---
+
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/NetworkFlows_png.png" alt="Network Traffic-Flows Analysis" width=72 height=72> Network Traffic-Flows Analysis
 
 <details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/NetworkFlows_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
