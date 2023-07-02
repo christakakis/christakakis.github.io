@@ -1,7 +1,7 @@
 # Portfolio
 ---
 
-# <img src="https://www.pngitem.com/pimgs/m/76-761296_machine-learning-model-icon-hd-png-download.png" alt="Machine Learning Projects" width=48 height=48> Machine Learning Projects
+# <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" alt="Machine Learning Projects" width=48 height=48> Machine Learning Projects
 
 <details markdown=1><summary markdown="span"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Hey_Machine_Learning_Logo.png" alt="Machine Learning Projects" width=20 height=20><strong> Machine Learning Projects</strong> (Click to open)</summary>
 
