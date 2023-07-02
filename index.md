@@ -155,6 +155,37 @@
 
 ---
 
+# <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/NetworkFlows_png.png" alt="Network Traffic-Flows Analysis" width=72 height=72> Network Traffic-Flows Analysis
+
+<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/NetworkFlows_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
+
+<br/>
+
+### Network Traffic Analysis in Data Centres
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/trace_pcap_analysis)
+
+**Network Traffic Analysis from PCAP file:** Analyzing network traffic in data centers based on trace from PCAP file and extraction of traffic characteristics in the form of distributions. The extracted results are plotted in the form of distributions (e.g. CDF). For the implementation DPTK library is used.
+
+<img src="https://raw.githubusercontent.com/christakakis/trace_pcap_analysis/main/Plots/4.png"/>
+<img src="https://raw.githubusercontent.com/christakakis/trace_pcap_analysis/main/Plots/2.png"/>
+
+---
+
+### Flow Migration Technique using OpenFlow
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/open-flow_migration/)
+
+**Flow Migration Technique:** Implementation of a flow migration technique for transferring a network flow to another path of a network topology, while assessing any communication complications, such as increase in delay, packet loss and packet reordering. The flow transfers are done using OpenFlow and D-ITG.
+
+<img src="https://raw.githubusercontent.com/christakakis/open-flow_migration/main/01.%20Plots/Jitter_Routing1.jpg"/>
+<img src="https://raw.githubusercontent.com/christakakis/open-flow_migration/main/01.%20Plots/PacketReorderings.jpg"/>
+
+</details>
+<br/>
+
+---
+
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/Optimization_png.png" alt="Computational Optimization" width=72 height=72> Computational Optimization
 
 <details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/Optimization_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
