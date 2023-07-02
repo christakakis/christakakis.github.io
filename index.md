@@ -1,6 +1,8 @@
 # Portfolio
 ---
-## Machine Learning Projects 
+<details>
+<summary>## Machine Learning Projects</summary> 
+<br>
 
 ### Classification (Computer Vision - BoVW)
 
@@ -64,6 +66,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/machine_learning/tree/main/(3)%20CNN%20Architecture)
 
 **CNNs:** Comparing and seeking the best result of various convolutional neural network architectures for CIFAR-10 dataset, while trying different loss functions.
+</details>
 
 ---
 ## Data Analysis with R 
