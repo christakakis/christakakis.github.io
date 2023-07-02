@@ -1,8 +1,11 @@
 # Portfolio
 ---
 ## Machine Learning Projects
-<details><summary>Machine Learning Projects</summary>
+
+<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/wiki/pipewire-debian/pipewire-debian/images/icons/open_book.svg" alt="Machine Learning Projects" width=20 height=20><strong> Machine Learning Projects</strong> (Click to open)</summary>
+
 <br/>
+
 **Classification (Computer Vision - BoVW)**
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/machine_learning/tree/main/(2)%20Classification%20(Computer%20Vision%20-%20BoVW))
@@ -65,6 +68,7 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/machine_learning/tree/main/(3)%20CNN%20Architecture)
 
 **CNNs:** Comparing and seeking the best result of various convolutional neural network architectures for CIFAR-10 dataset, while trying different loss functions.
+
 </details>
 
 ---
