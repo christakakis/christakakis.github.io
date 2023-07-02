@@ -3,7 +3,7 @@
 
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/ML_png.png" alt="Machine Learning" width=48 height=48> Machine Learning
 
-<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/ML_png.png" alt="Projects" width=20 height=20><strong>Projects</strong> (Click to open)</summary>
+<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/ML_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
 <br/>
 
@@ -76,7 +76,7 @@
 
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/R_png.png" alt="Data Analysis with R" width=48 height=48> Data Analysis with R
 
-<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/R_png.png" alt="Projects" width=20 height=20><strong>Projects</strong> (Click to open)</summary>
+<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/R_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
 <br/>
 
@@ -155,7 +155,7 @@
 
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/Optimization_png.png" alt="Computational Optimization" width=48 height=48> Computational Optimization
 
-<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/Optimization_png.png" alt="Projects" width=20 height=20><strong>Projects</strong> (Click to open)</summary>
+<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/Optimization_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
 <br/>
 
