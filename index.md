@@ -1,9 +1,9 @@
 # Portfolio
 ---
 
-# <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/ML_png.png" alt="Machine Learning" width=48 height=48> Machine Learning
+# <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/MachineLearning_png.png" alt="Machine Learning" width=48 height=48> Machine Learning
 
-<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/ML_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
+<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/MachineLearning_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
 <br/>
 
