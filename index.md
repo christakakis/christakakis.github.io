@@ -1,7 +1,8 @@
 # Portfolio
 ---
+## Machine Learning Projects
 <details>
-<summary>**Machine Learning Projects**</summary> 
+<summary>Machine Learning Projects</summary> 
 <br>
 
 ### Classification (Computer Vision - BoVW)
