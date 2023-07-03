@@ -3,7 +3,7 @@
 
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/PersonalProject_png.png" alt="Personal Projects" width=72 height=72> Personal Projects
 
-<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/PersonalProject_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
+<details open markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/PersonalProject_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
 <br/>
 
