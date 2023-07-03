@@ -31,7 +31,7 @@
 
 #### While we still ran the family business the collection of the necessary data was done with a simple questionnaire (in Greek) like the one below:
 
-<img src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire.png"/>
+<img src="https://raw.githubusercontent.com/christakakis/SmokersCollabFilter/main/docs/questionnaire_english.png"/>
 
 ## **Additional Details** 📌
 
