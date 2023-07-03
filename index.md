@@ -60,7 +60,7 @@
 
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/MachineLearning_png.png" alt="Machine Learning" width=72 height=72> Machine Learning
 
-<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/MachineLearning_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
+<details open markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/MachineLearning_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
 <br/>
 
@@ -134,7 +134,7 @@
 
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/R_png.png" alt="Data Analysis with R" width=72 height=72> Data Analysis with R
 
-<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/R_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
+<details open markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/R_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
 <br/>
 
@@ -214,7 +214,7 @@
 
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/GraphNetworks_png.png" alt="Graph Networks Analysis" width=72 height=72> Graph Networks Analysis
 
-<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/GraphNetworks_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
+<details open markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/GraphNetworks_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
 <br/>
 
@@ -254,7 +254,7 @@
 
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/NetworkFlows_png.png" alt="Network Traffic-Flows Analysis" width=72 height=72> Network Traffic-Flows Analysis
 
-<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/NetworkFlows_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
+<details open markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/NetworkFlows_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
 <br/>
 
@@ -285,7 +285,7 @@
 
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/Optimization_png.png" alt="Computational Optimization" width=72 height=72> Computational Optimization
 
-<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/Optimization_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
+<details open markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/Optimization_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
 
 <br/>
 
