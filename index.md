@@ -38,8 +38,6 @@
 #### The system leverages item-item collaborative filtering techniques to identify similarities between users based on their smoking history, ratings and preferences. By analyzing past smoking behaviors and user responses from questionnaires, the system generates recommendations for alternative smoking products. This project aims to offer insights into smoking patterns and assist users in making informed decisions towards new rated smoking products.
 
 ### The final format of the table created from the answers of the questionnaires should look like this: 
-
-<div align="center">
 	
 |                  | User_1 | User_2 | User.. | User_N |
 |:----------------:|:------:|:------:|:------:|:------:|
@@ -48,8 +46,6 @@
 | Tobacco Brand_3  |    3   |    5   |   ...  |    4   |
 | Tobacco Brand_.. |   ...  |   ...  |   ...  |   ...  |
 | Tobacco Brand_M  |    2   |        |   ...  |    2   |
-
-</div>
 
 ### **NOTE** 🚭
 
