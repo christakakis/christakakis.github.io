@@ -356,4 +356,4 @@
 
 
 ---
-<center>© 2023 Panagiotis Christakakis. Powered by Jekyll and the Minimal Theme.</center>
+<center>© 2023 Panagiotis Christakakis.</center>
