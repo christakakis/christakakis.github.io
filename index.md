@@ -232,11 +232,22 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/graph_network_analysis/tree/main/communityDetectionTechniques)
 
-**Detect communities with different techniques:** Working with polblogs network, a directed graph from hyperlinks between blogs on US politics recorded in 2005 by Adamic and Glance, a comparison of the performance of different community detection techniques-algorithms is held, with respect to the ground-truth communities given.
+**Detect communities with different techniques:** Working with [polblogs](http://networkdata.ics.uci.edu/data/polblogs/) network, a directed graph from hyperlinks between blogs on US politics recorded in 2005 by Adamic and Glance, a comparison of the performance of different community detection techniques-algorithms is held, with respect to the ground-truth communities given.
 
 <img src="https://raw.githubusercontent.com/christakakis/graph_network_analysis/main/communityDetectionTechniques/Plots/01.%20Ground%20Truth%20Communities.png"/>
 <img src="https://raw.githubusercontent.com/christakakis/graph_network_analysis/main/communityDetectionTechniques/Plots/03.%20Maximization%20Modularity%20Communities.png"/>
 <img src="https://raw.githubusercontent.com/christakakis/graph_network_analysis/main/communityDetectionTechniques/Plots/08.%20Metrics%20for%20Community%20Detection%20Methods%20(2).jpg"/>
+
+---
+
+### Production and Evaluation of Node Embeddings
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/christakakis/graph_network_analysis/tree/main/node2VecClusteringLinkPrediction)
+
+**Production and evaluation of Node Embeddings:** Working with [polbooks](http://networkdata.ics.uci.edu/data/polbooks/) network, a directed graph from Books about US Politics Dataset, we produce node embeddings using Node2Vec and then evaluate their performance using them for Link Prediction and K-Means Clustering, with respect to the ground-truth communities given.
+
+<img src="https://raw.githubusercontent.com/christakakis/graph_network_analysis/main/node2VecClusteringLinkPrediction/Plots/02.%20Link_Prediction_Metrics(2).png"/>
+<img src="https://raw.githubusercontent.com/christakakis/graph_network_analysis/main/node2VecClusteringLinkPrediction/Plots/06.%20Node2Vec(2).png"/>
 
 ---
 
