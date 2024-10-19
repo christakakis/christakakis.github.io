@@ -1,6 +1,61 @@
 # Portfolio
 ---
 
+# <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/refs/heads/master/images/Google_Scholar_logo.svg.png" alt="Publications" width=72 height=72> Publications
+
+<details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/refs/heads/master/images/Google_Scholar_logo.svg.png" alt=" Projects" width=20 height=20><strong> Publications</strong> (Click to open)</summary>
+
+<br/>
+
+### Vision Transformers in Optimization of AI-Based Early Detection of Botrytis cinerea
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.3390/ai5030063)
+
+**P Christakakis, N Giakoumoglou, D Kapetas, D Tzovaras, EM Pechlivani
+
+**AI - MDPI
+
+---
+### Smartphone-Based Citizen Science Tool for Plant Disease and Insect Pest Detection Using Artificial Intelligence
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.3390/technologies12070101)
+
+**P Christakakis, G Papadopoulou, G Mikos, N Kalogiannidis, D Ioannidis, D Tzovaras, EM Pechlivani
+
+**Technologies - MDPI
+
+---
+### Early detection of Botrytis cinerea symptoms using deep learning multi-spectral image segmentation
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.1016/j.atech.2024.100481)
+
+**N Giakoumoglou, E Kalogeropoulou, C Klaridopoulos, EM Pechlivani, P Christakakis, E Markellou, N Frangakis, D Tzovaras
+
+**Smart Agricultural Technology - Elsevier
+
+---
+### Multi-spectral image Transformer descriptor classification combined with Molecular Tools for early detection of tomato grey mould
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.1016/j.atech.2024.100580)
+
+**D Kapetas, E Kalogeropoulou, P Christakakis, C Klaridopoulos, EM Pechlivani
+
+**Smart Agricultural Technology - Elsevier
+
+---
+### A Citizen Science Tool Based on an Energy Autonomous Embedded System with Environmental Sensors and Hyperspectral Imaging
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.3390/jlpea14020019)
+
+**CS Kouzinopoulos, EM Pechlivani, N Giakoumoglou, A Papaioannou, S Pemas, P Christakakis, D Ioannidis, D Tzovaras
+
+**Journal of Low Power Electronics and Applications - MDPI
+
+</details>
+<br/>
+
+---
+
 # <img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/PersonalProject_png.png" alt="Personal Projects" width=72 height=72> Personal Projects
 
 <details markdown=1><summary markdown="span"><img src="https://raw.githubusercontent.com/christakakis/christakakis.github.io/master/images/PersonalProject_png.png" alt=" Projects" width=20 height=20><strong> Projects</strong> (Click to open)</summary>
