@@ -7,6 +7,24 @@
 
 <br/>
 
+### AI-Driven Insect Detection, Real-Time Monitoring, and Population Forecasting in Greenhouses
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.3390/agriengineering7020029)
+
+**Authors: D Kapetas, P Christakakis, S Faliagka, N Katsoulas, EM Pechlivani**
+
+**Journal: AgriEngineering - MDPI**
+
+---
+### Comparative Evaluation of AI-Based Multi-Spectral Imaging and PCR-Based Assays for Early Detection of Botrytis cinerea Infection on Pepper Plants
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.3390/agriculture15020164)
+
+**Authors: D Kapetas, E Kalogeropoulou, P Christakakis, C Klaridopoulos, EM Pechlivani**
+
+**Journal: Agriculture - MDPI**
+
+---
 ### Vision Transformers in Optimization of AI-Based Early Detection of Botrytis cinerea
 
 [![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.3390/ai5030063)
