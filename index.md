@@ -7,6 +7,24 @@
 
 <br/>
 
+### AI-based robotic trap for real-time insect detection, monitoring and population prediction
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]((https://doi.org/10.1109/IPAS63548.2025.10924486))
+
+**Authors: D Kapetas, P Christakakis, V Goglia, EM Pechlivani**
+
+**Journal: IEEE**
+
+---
+### Aquaponic Farming with Advanced Decision Support System: Practical Implementation and Evaluation
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)]((https://doi.org/10.1109/IPAS63548.2025.10924523))
+
+**Authors: EM Pechlivani**, G Gkogkos, P Christakakis, D Kapetas, I Hadjigeorgiou, D Ioannidis
+
+**Journal: IEEE**
+
+---
 ### AI-Driven Insect Detection, Real-Time Monitoring, and Population Forecasting in Greenhouses
 
 [![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.3390/agriengineering7020029)
