@@ -13,7 +13,7 @@
 
 **Authors: D Kapetas, P Christakakis, V Goglia, EM Pechlivani**
 
-**Journal: IEEE**
+**Journal: IEEE Xplore (IPAS2025)**
 
 ---
 ### Aquaponic Farming with Advanced Decision Support System: Practical Implementation and Evaluation
@@ -22,7 +22,7 @@
 
 **Authors: EM Pechlivani**, G Gkogkos, P Christakakis, D Kapetas, I Hadjigeorgiou, D Ioannidis
 
-**Journal: IEEE**
+**Journal: IEEE Xplore (IPAS2025)**
 
 ---
 ### AI-Driven Insect Detection, Real-Time Monitoring, and Population Forecasting in Greenhouses
