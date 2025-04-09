@@ -20,7 +20,7 @@
 
 [![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.1109/IPAS63548.2025.10924523)
 
-**Authors: EM Pechlivani**, G Gkogkos, P Christakakis, D Kapetas, I Hadjigeorgiou, D Ioannidis
+**Authors: EM Pechlivani, G Gkogkos, P Christakakis, D Kapetas, I Hadjigeorgiou, D Ioannidis**
 
 **Journal: IEEE Xplore (IPAS2025)**
 
