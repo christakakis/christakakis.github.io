@@ -7,6 +7,15 @@
 
 <br/>
 
+### Post-Heuristic Cancer Segmentation Refinement over MRI Images and Deep Learning Models
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.3390/ai6090212)
+
+**Authors: P Christakakis, E Protopapadakis**
+
+**Journal: AI - MDPI**
+
+---
 ### AI-based robotic trap for real-time insect detection, monitoring and population prediction
 
 [![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.1109/IPAS63548.2025.10924486)
