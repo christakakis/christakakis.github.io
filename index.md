@@ -16,6 +16,33 @@
 **Journal: AI - MDPI**
 
 ---
+### Multispectral AI-driven imaging for detection of downy mildew and gray mold in grapevines
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.1016/j.atech.2026.101990)
+
+**Authors: D Kapetas, P Christakakis, I Naounoulis, Ioannis Vagelas, Sofia Faliagka, EM Pechlivani, Nikolaos Katsoulas**
+
+**Journal: Smart Agricultural Technology - Elsevier**
+
+---
+### Synthetic Dataset for AI-Driven Photovoltaic Fault and Damage Detection via UAV Thermal Imaging
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.1109/EEAE65901.2025.11273362)
+
+**Authors: P Christakakis, P Dimou, P Symeonidis, D Ioannidis, D Tzovaras, EM Pechlivani**
+
+**Journal: IEEE Xplore (EE&AE2025)**
+
+---
+### Deep Learning Meets qPCR: Detecting Fungal Plant Diseases
+
+[![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.1109/EEAE65901.2025.11273671)
+
+**Authors: P Christakakis, E Kalogeropoulou, D Kapetas, EM Pechlivani**
+
+**Journal: IEEE Xplore (EE&AE2025)**
+
+---
 ### AI-based robotic trap for real-time insect detection, monitoring and population prediction
 
 [![View Publication](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://doi.org/10.1109/IPAS63548.2025.10924486)
